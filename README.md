@@ -1,0 +1,4 @@
+training
+========
+
+Various training projects
